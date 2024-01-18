@@ -33,7 +33,7 @@ This project was constructed utilizing a variety of frontend technologies, inclu
 
 ### `Deploy Link`
 
-
+https://abhishekchadar98.netlify.app
  
 
 
